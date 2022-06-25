@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Registration Sampkle
 //
-//  Created by Pulkit Vora on 02/04/22.
+//  Created by Franciscus Valentinus Ongkosianbhadra on 06/23/22.
 //
 
 import UIKit
